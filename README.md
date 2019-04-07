@@ -1,5 +1,6 @@
 # TankGame-Team06
 Amelie Cameron
+Individual project
 
 Please see Documentation.pdf for details and how to run game
 
